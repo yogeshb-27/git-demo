@@ -4,3 +4,4 @@ this text is written on branch yogesh
 this text is written after clearing file
 hi
 added feature 1 in feature branch
+added feature 2 in feature branch
